@@ -1,4 +1,4 @@
-Flask>
+Flask
 gunicorn
 numpy
 pandas
